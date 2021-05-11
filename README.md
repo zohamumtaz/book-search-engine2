@@ -1,24 +1,18 @@
 # book-search-engine2
 
 
-License under MIT
+
 ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
 
-DESCRIPTION
+##DESCRIPTION
+
+
 In This project The Book search engine we are making an application that is holdig the entire MERN stack along with React front end, MongoDB database,Node.js/Express.js server and API. In this applicationn we have set up to permit the users to save their book searches to the back end. The application is built with the help of using Google Books API search engine and GraphQL API and Apollo Server.
 
 
 ## Screenshot
 
-
-
-
-
-
-
-
-
-
+<img width="1317" alt="! Screenshot1" src="https://user-images.githubusercontent.com/74481523/117878745-113b9500-b274-11eb-8b11-5726a690f63a.png">
 
 
 
@@ -26,6 +20,8 @@ Table Of Contents
 Usage
 LIcense
 Available-Scripts
+
+
 Learn-more
 Contributions
 Questions
